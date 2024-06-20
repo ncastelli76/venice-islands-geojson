@@ -5,7 +5,7 @@ An open-source repository for GIS data mapping the city of Venice.   Originally 
 
 isoli.geojson maps the entirety of Venice's historic center, as well as most islands in the area, as multipolygons. ID section is for bridges.geojson reference, to recognize which islands each bridge connects to.
 
-Bridge data (points) is from a 2013 IQP project and is not recent: Some information may be depreciated, check for any bridge renovations since then.
+Bridge data (points) is from a 2013 IQP project, but has been updated with recent changes. All bridges in the main city contain geological coordinates, but some outside do not.
 
 ## Authors
 
